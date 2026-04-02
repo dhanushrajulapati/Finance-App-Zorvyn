@@ -77,8 +77,7 @@ flutter pub get
 flutter run
 ```
 
-## 📸 Screenshots
-*(Coming Soon: Add screenshots of your sleek dashboard and dynamic login screens here!)*
+
 
 ---
 Developed as a robust capstone software project prioritizing secure cloud-architecture and exceptional UI mapping.
